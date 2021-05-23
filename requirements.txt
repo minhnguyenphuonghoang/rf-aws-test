@@ -1,0 +1,8 @@
+wheel
+robotframework
+robotframework-seleniumlibrary
+requests
+arrow
+pytz
+Pillow
+selenium
