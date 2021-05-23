@@ -1,9 +1,13 @@
+*** Settings ***
+Resource      ../Resources/Env_Variables.robot
+
+
 *** Test Cases ***
 TS002-Test Case 001
-    Sleep    1s
+    I wait for 1 second
 
 TS002-Test Case 002
-    Sleep    6s
+    I wait for 6 seconds
 
 TS002-Test Case 003
-    Sleep    3s
+    I wait for 3 seconds

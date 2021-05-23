@@ -1,3 +1,7 @@
+*** Settings ***
+Resource      ../Resources/Env_Variables.robot
+
+
 *** Test Cases ***
 TS003-Test Case 001
-    Sleep    10
+    I wait for 10 seconds

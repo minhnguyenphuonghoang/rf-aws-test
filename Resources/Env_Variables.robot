@@ -1,6 +1,7 @@
 *** Settings ***
 Library  SeleniumLibrary
 Library  OperatingSystem
+Resource    Login_KW.robot
 
 
 *** Variables ***

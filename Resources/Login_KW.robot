@@ -21,7 +21,8 @@ The User Logins To the System
 
     Click Button    ${Login_Button}
 
-
+I wait for ${amount}
+    sleep    ${amount}
 
 *** Variables ***
 ${Username_Field}       email
