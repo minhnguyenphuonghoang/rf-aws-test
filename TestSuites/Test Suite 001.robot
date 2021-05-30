@@ -6,5 +6,5 @@ Resource      ../Resources/Env_Variables.robot
 TS001-Test Case 001
     I wait for 2 seconds
 
-TS001-Test Case 001
+TS001-Test Case 002
     I wait for 5 seconds
